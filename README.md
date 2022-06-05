@@ -3,10 +3,15 @@
 ### The third heading
 
 **Hello world**
+<br>
 *Hello world*
+<br>
 ~~Hello world~~
+<br>
+<br>
 <sub>Subscript</sub>
-<sup>SUperscript</sup>
+<br>
+<sup>Superscript</sup>
 
 <!DOCTYPE>
 <html>
