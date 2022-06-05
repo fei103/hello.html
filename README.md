@@ -35,6 +35,7 @@ feifei [weibo](https://weibo.com/n/GNZ48-%E5%88%98%E5%8A%9B%E8%8F%B2)
 
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
 
 <!DOCTYPE>
 <html>
