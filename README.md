@@ -10,7 +10,6 @@
 <br>
 <br>
 <sub>Subscript</sub>
-<br>
 <sup>Superscript</sup>
 
 <!DOCTYPE>
